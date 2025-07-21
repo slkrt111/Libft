@@ -1,4 +1,4 @@
-# 📚 **libft – École 42**
+# 📚 **Libft**
 ---
 
 ## 📖 **Description**  
