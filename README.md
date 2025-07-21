@@ -1,7 +1,4 @@
-# 🚀 **libft – École 42**
-
-![42 Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/42_Logo.svg)
-
+# 📚 **libft – École 42**
 ---
 
 ## 📖 **Description**  
@@ -12,7 +9,7 @@ Il consiste à recréer un ensemble de **fonctions standard de la librairie C**,
 
 ## 🧩 **Fonctionnalités**  
 
-### **1. Fonctions Libc (re-code)**  
+### **1. Fonctions Libc**  
 - `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_memchr`, `ft_memcmp`  
 - `ft_strlen`, `ft_strlcpy`, `ft_strlcat`, `ft_strchr`, `ft_strrchr`, `ft_strncmp`  
 - `ft_strnstr`, `ft_strdup`  
