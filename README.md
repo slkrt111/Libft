@@ -1,48 +1,47 @@
-# 📚 Libft  
+# 📚 Libft
 
-[🇫🇷 Français](#-français) | [🇬🇧 English](#-english)
-
----
-
-## 🇫🇷 Français  
-
-### 📘 Description  
-
-Libft est un projet fondamental de l’école 42 qui consiste à réimplémenter une sélection des fonctions de la bibliothèque standard du langage C, tout en créant des fonctions utilitaires supplémentaires.  
-L’objectif est de renforcer la compréhension des bases du langage C, la gestion de la mémoire et les bonnes pratiques de développement.
+Libft est un projet de l'école 42 visant à recréer certaines fonctions essentielles de la bibliothèque standard en C et à développer une compréhension approfondie des bases du langage C, de la gestion de la mémoire, et des bonnes pratiques en programmation.
 
 ---
 
-### 📑 Sommaire  
-- [📘 Description](#-description-1)  
-- [⚙️ Fonctionnalités](#️-fonctionnalités)  
-- [📂 Structure du projet](#-structure-du-projet)  
-- [💻 Compilation et Utilisation](#-compilation-et-utilisation)  
-- [📋 Aperçu des Fonctions](#-aperçu-des-fonctions)  
-- [🔗 Ressources](#-ressources)  
+## 📑 Sommaire
+- [📘 Description](#-description)
+- [⚙️ Fonctionnalités](#-fonctionnalités)
+- [📂 Structure du projet](#-structure-du-projet)
+- [💻 Compilation et Utilisation](#-compilation-et-utilisation)
+- [📋 Aperçu des Fonctions](#-aperçu-des-fonctions)
+- [🔗 Ressources](#-ressources)
 
 ---
 
-### ⚙️ Fonctionnalités  
+## 📘 Description
 
-- 🔧 Réimplémentation de fonctions standards du C (`memset`, `strlen`, `strcpy`, etc.)  
-- 🧵 Fonctions utilitaires pour les chaînes de caractères et la mémoire  
-- 📜 Fonctions pour gérer des **listes chaînées**  
-- 📚 Base réutilisable pour des projets futurs  
+Le projet **Libft** consiste à implémenter plusieurs fonctions de la bibliothèque standard du C, ainsi que des fonctions utilitaires supplémentaires pour manipuler des chaînes, des listes, et la mémoire.  
+Une fois complétée, cette bibliothèque pourra être utilisée dans de nombreux autres projets.
 
 ---
 
-### 📂 Structure du projet  
+## ⚙️ Fonctionnalités
 
-- **Partie 1** – Fonctions de base de la libc (gestion de mémoire et de chaînes).  
-- **Partie 2** – Fonctions supplémentaires pour étendre les capacités de la bibliothèque.  
-- **Partie Bonus** – Fonctions pour la manipulation de listes chaînées.
+- 🔧 Recréation de fonctions classiques de la bibliothèque C (`memset`, `strlen`, `strcpy`, etc.)
+- 🧵 Fonctions de manipulation de chaînes et de mémoire
+- 📜 Fonctions utilitaires pour faciliter la gestion de listes chaînées
+- 📚 Utilisation de la bibliothèque dans des projets futurs de l'école 42
 
 ---
 
-### 💻 Compilation et Utilisation  
+## 📂 Structure du projet
 
-Pour compiler la bibliothèque, exécutez :  
+Le projet est structuré en plusieurs parties :  
+- **Partie 1** – Recréation de fonctions classiques de la bibliothèque C.  
+- **Partie 2** – Fonctions supplémentaires pour la manipulation de chaînes et de mémoire.  
+- **Partie Bonus** – Fonctions pour manipuler des listes chaînées.  
+
+---
+
+## 💻 Compilation et Utilisation
+
+Pour compiler la bibliothèque, utilisez la commande suivante dans le répertoire du projet :  
 
 ```bash
 make
